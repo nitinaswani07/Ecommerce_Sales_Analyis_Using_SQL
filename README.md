@@ -7,6 +7,7 @@ This data analysis project aims to provide insights into the sales performance o
 ### Database and Tools
  - Google BigQuery - Data Analysis [Link](https://console.cloud.google.com/bigquery)
  - SQL Query  [Link](https://console.cloud.google.com/bigquery?sq=889450507925:e2c55f8a94bd44e2b2f7076abf5c3d82)
+ - Tableau Dashboard [Dashboard](https://console.cloud.google.com/bigquery?sq=889450507925:e2c55f8a94bd44e2b2f7076abf5c3d82)
 
 #### Schema - Ecommerce Sales Database
 
